@@ -1,0 +1,35 @@
+# ---- System file ----
+.DS_Store
+Thumbs.db
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv
+myenv/
+
+# ---- C/C++ ----
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# ---- IDE ----
+.vscode/
+.idea/
+
+# ---- Temp dir ----
+build/
+dist/
+
+# ---- log file ----
+*.log
+*.tmp
+*.swp
+*.bak

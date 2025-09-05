@@ -1,0 +1,17 @@
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/Tutorial.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/test.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/edit_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/rebuild_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/list_install_components.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/install.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/install/local.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/CMakeFiles/install/strip.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/test.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/list_install_components.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/install.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/install/local.dir
+/Users/liao./Desktop/cmake-tutorial/Step5_build/MathFunctions/CMakeFiles/install/strip.dir

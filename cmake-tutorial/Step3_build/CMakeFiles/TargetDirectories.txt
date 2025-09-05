@@ -1,0 +1,7 @@
+/Users/liao./Desktop/cmake-tutorial/Step3_build/CMakeFiles/Tutorial.dir
+/Users/liao./Desktop/cmake-tutorial/Step3_build/CMakeFiles/edit_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step3_build/CMakeFiles/rebuild_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step3_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/liao./Desktop/cmake-tutorial/Step3_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/Users/liao./Desktop/cmake-tutorial/Step3_build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/liao./Desktop/cmake-tutorial/Step3_build/MathFunctions/CMakeFiles/rebuild_cache.dir

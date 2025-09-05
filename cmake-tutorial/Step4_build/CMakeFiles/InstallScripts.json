@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/liao./Desktop/cmake-tutorial/Step4_build/cmake_install.cmake",
+		"/Users/liao./Desktop/cmake-tutorial/Step4_build/MathFunctions/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

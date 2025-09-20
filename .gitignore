@@ -2,6 +2,7 @@
 .DS_Store
 Thumbs.db
 
+
 # ---- Python ----
 __pycache__/
 *.pyc
@@ -33,3 +34,6 @@ dist/
 *.tmp
 *.swp
 *.bak
+
+# ---- Obsidian ----
+.obsidian
